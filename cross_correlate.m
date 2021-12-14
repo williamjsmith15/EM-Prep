@@ -14,6 +14,7 @@ plot(lags/sample_freq, Rmm)
 xlabel('Lag (s)')
 ylabel('Cross-Correlation')
 title('Cross Correlation')
+grid on
 
 
 end

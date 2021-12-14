@@ -18,5 +18,6 @@ plot(fft_x, fft_y)
 xlabel('Freq (Hz)')
 ylabel('Amplitude')
 title('Fourier Transform')
+grid on
 end
 
